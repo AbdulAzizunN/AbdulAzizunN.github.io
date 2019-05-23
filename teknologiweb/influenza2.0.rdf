@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<rdf:RDF xml:lang="en"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:dbo="http://dbpedia.org/ontology/"
+  xmlns:dbp="http://dbpedia.org/property/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:ns8="http://nl.dbpedia.org/property/"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:ds="https://data.cityofnewyork.us/resource/w9ei-idxz/">
+  
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Influenza">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+	<rdf:type rdf:resource="http://www.wikidata.org/entity/Q12136"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Disease"/>
+	<rdf:type rdf:resource="http://umbel.org/umbel/rc/AilmentCondition"/>
+	<rdfs:label xml:lang="en">Influenza</rdfs:label>
+	<foaf:name xml:lang="en">Influenza</foaf:name>
+	<foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/EM_of_influenza_virus.jpg"/>
+	<dbo:abstract xml:lang="en">
+	  "Flu" and "Grippe" redirect here. For other uses, see Flu (disambiguation) and Grippe (disambiguation).) Influenza, commonly known as "the flu", is an infectious disease caused by an influenza virus. Symptoms can be mild to severe. The most common symptoms include: a high fever, runny nose, sore throat, muscle pains, headache, coughing, and feeling tired. These symptoms typically begin two days after exposure to the virus and most last less than a week. The cough, however, may last for more than two weeks. In children, there may be nausea and vomiting, but these are not common in adults. Nausea and vomiting occur more commonly in the unrelated infection gastroenteritis, which is sometimes inaccurately referred to as "stomach flu" or "24-hour flu". Complications of influenza may include viral pneumonia, secondary bacterial pneumonia, sinus infections, and worsening of previous health problems such as asthma or heart failure. Three types of influenza viruses affect people, called Type A, Type B, and Type C. Usually, the virus is spread through the air from coughs or sneezes. This is believed to occur mostly over relatively short distances. It can also be spread by touching surfaces contaminated by the virus and then touching the mouth or eyes. A person may be infectious to others both before and during the time they are showing symptoms. The infection may be confirmed by testing the throat, sputum, or nose for the virus. A number of rapid tests are available; however, people may still have the infection if the results are negative. A type of polymerase chain reaction that detects the virus's RNA is more accurate. Frequent hand washing reduces the risk of infection because the virus is inactivated by soap. Wearing a surgical mask is also useful. Yearly vaccinations against influenza are recommended by the World Health Organization for those at high risk. The vaccine is usually effective against three or four types of influenza. It is usually well tolerated. A vaccine made for one year may not be useful in the following year, since the virus evolves rapidly. Antiviral drugs such as the neuraminidase inhibitor oseltamivir, among others, have been used to treat influenza. Their benefits in those who are otherwise healthy do not appear to be greater than their risks. No benefit has been found in those with other health problems. Influenza spreads around the world in a yearly outbreak, resulting in about three to five million cases of severe illness and about 250,000 to 500,000 deaths. In the Northern and Southern parts of the world outbreaks occur mainly in winter while in areas around the equator outbreaks may occur at any time of the year. Death occurs mostly in the young, the old and those with other health problems. Larger outbreaks known as pandemics are less frequent. In the 20th century three influenza pandemics occurred: Spanish influenza in 1918, Asian influenza in 1958, and Hong Kong influenza in 1968, each resulting in more than a million deaths. The World Health Organization declared an outbreak of a new type of influenza A/H1N1 to be a pandemic in June 2009. Influenza may also affect other animals, including pigs, horses and birds.
+	</dbo:abstract>
+	<owl:sameAs rdf:resource="http://data.nytimes.com/40224736680440708980"/>
+	<owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0bdb4v"/>
+	<owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2840"/>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canine_influenza">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Influenza"/>
+	<rdfs:label xml:lang="en">Canine influenza</rdfs:label>
+	<dbo:abstract xml:lang="en">
+	  Canine influenza (dog flu) is influenza occurring in canine animals. Canine influenza is caused by varieties of influenzavirus A, such as equine influenza virus H3N8, which in 2004 was discovered to cause disease in dogs. Because of the lack of previous exposure to this virus, dogs have no natural immunity to it. Therefore, the disease is rapidly transmitted between individual dogs. Canine influenza may be endemic in some regional dog populations of the United States. It is a disease with a high morbidity (incidence of symptoms) but a low incidence of death. A newer form was identified in Asia during the 2000s and has since caused outbreaks in the US as well. It is a mutation of H3N2 that adapted from its avian influenza origins. Vaccines have been developed for both strains.
+	</dbo:abstract>
+	<owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.08pr_0"/>
+	<dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dog_diseases"/>
+	<dct:subject rdf:resource="http://dbpedia.org/resource/Category:Influenza"/>
+	<dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animal_virology"/>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pandemic_H1N1/09_virus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Influenza"/>
+	<rdfs:label xml:lang="en">Pandemic H1N1/09 virus</rdfs:label>
+	<dbo:abstract xml:lang="en">
+	  The Pandemic H1N1/09 virus is a swine origin Influenza A virus subtype H1N1 virus strain responsible for the 2009 flu pandemic. For other names see the Nomenclature section below.
+	</dbo:abstract>
+	<owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1031900"/>
+	<owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.063zhz1"/>
+	<owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1031900"/>
+	<foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/3D_Influenza_virus.png"/>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Live_attenuated_influenza_vaccine">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ChemicalSubstance"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatInfluenzaVaccines"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Substance100020090"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatVaccines"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Immunogen103562739"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLiveVaccines"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/DrugProduct"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Matter100020827"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q8386"/>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#ChemicalObject"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Antigen115037339"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Vaccine104517535"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Drug"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:label xml:lang="en">Live attenuated influenza vaccine</rdfs:label>
+	<dbo:abstract xml:lang="en">
+	  Live attenuated influenza vaccine (LAIV) is a type of influenza vaccine in the form of a nasal spray that used to be recommended to prevent influenza. In June of 2016 the CDC stopped recommending the use of LAIV as its effectiveness has appeared to have decreased between 2013 and 2016. It is an attenuated vaccine, unlike most influenza vaccines, which are inactivated vaccines. LAIV is administered intranasally, while inactivated vaccines are administered by intramuscular injection. Both live attenuated and inactivated vaccines are typically trivalent. That is, they contain material from three different influenza virus strains recommended by national and international public health agencies as most likely to be protective against seasonal influenza in any given year. LAIV is sold under the trade name FluMist in the United States and Canada, and Fluenz in Europe. FluMist is manufactured by MedImmune and was first introduced in 2003.
+	</dbo:abstract>
+	<dbp:target rdf:resource="http://dbpedia.org/resource/Influenza"/>
+	<dbp:type rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">vaccine</dbp:type>
+	<dbp:vaccineType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">attenuated</dbp:vaccineType>
+	<owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Live_attenuated_influenza_vaccine"/>
+	<owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.043n3b"/>
+	<owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2043512"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.cityofnewyork.us/resource/w9ei-idxz/row-9ytw.feyt-jpfb">
+	<rdfs:member rdf:resource="https://data.cityofnewyork.us/resource/w9ei-idxz"/>
+	<ds:objectid>646</ds:objectid>
+	<ds:a>748</ds:a>
+	<ds:service_category>Vaccines</ds:service_category>
+	<ds:service_type>Flu Vaccine (Influenza)</ds:service_type>
+	<dbp:target rdf:resource="http://dbpedia.org/resource/Influenza"/>
+	<ds:facility_name>Newtown Pharmacy</ds:facility_name>
+	<ds:address>28-04 31st Street</ds:address>
+	<ds:city>Astoria</ds:city>
+  </rdf:Description>
+
+</rdf:RDF>
