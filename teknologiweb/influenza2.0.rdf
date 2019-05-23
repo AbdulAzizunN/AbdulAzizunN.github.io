@@ -81,6 +81,7 @@
 
   <rdf:Description rdf:about="https://data.cityofnewyork.us/resource/w9ei-idxz/row-9ytw.feyt-jpfb">
 	<rdfs:member rdf:resource="https://data.cityofnewyork.us/resource/w9ei-idxz"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Hospital"/>
 	<ds:objectid>646</ds:objectid>
 	<ds:a>748</ds:a>
 	<ds:service_category>Vaccines</ds:service_category>
@@ -90,5 +91,44 @@
 	<ds:address>28-04 31st Street</ds:address>
 	<ds:city>Astoria</ds:city>
   </rdf:Description>
-
+  
+  <rdf:Description rdf:about="https://data.cityofnewyork.us/resource/w9ei-idxz/row-vc78-49ey.veb6">
+    <rdfs:member rdf:resource="https://data.cityofnewyork.us/resource/w9ei-idxz"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Hospital"/>
+    <ds:objectid>70</ds:objectid>
+    <ds:a>224</ds:a>
+    <ds:service_category>Vaccines</ds:service_category>
+    <ds:service_type>Flu Vaccine (Influenza)</ds:service_type>
+	<dbp:target rdf:resource="http://dbpedia.org/resource/Influenza"/>
+    <ds:facility_name>Walgreens Drug Store</ds:facility_name>
+    <ds:address>84-20  Broadway</ds:address>
+    <ds:city>Queens</ds:city>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://data.cityofnewyork.us/resource/w9ei-idxz/row-d5m5-veks~pdk6">
+    <rdfs:member rdf:resource="https://data.cityofnewyork.us/resource/w9ei-idxz"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Hospital"/>
+    <ds:objectid>810</ds:objectid>
+    <ds:a>840</ds:a>
+    <ds:service_category>Vaccines</ds:service_category>
+    <ds:service_type>Flu Vaccine (Influenza)</ds:service_type>
+	<dbp:target rdf:resource="http://dbpedia.org/resource/Influenza"/>
+    <ds:facility_name>Homecrest Clinic</ds:facility_name>
+    <ds:address>1601 AVENUE S </ds:address>
+    <ds:city>BROOKLYN</ds:city>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://data.cityofnewyork.us/resource/w9ei-idxz/row-8i2z.292s~eziq">
+    <rdfs:member rdf:resource="https://data.cityofnewyork.us/resource/w9ei-idxz"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Hospital"/>
+    <ds:objectid>366</ds:objectid>
+    <ds:a>182</ds:a>
+    <ds:service_category>Vaccines</ds:service_category>
+    <ds:service_type>Flu Vaccine (Influenza)</ds:service_type>
+	<dbp:target rdf:resource="http://dbpedia.org/resource/Influenza"/>
+    <ds:facility_name>Duane Reade</ds:facility_name>
+    <ds:address>949 3RD AVE</ds:address>
+    <ds:city>NEW YORK</ds:city>
+  </rdf:Description>
+  
 </rdf:RDF>
